@@ -1,4 +1,4 @@
-# Home Assistant NHL Card
+# Home Assistant MLB Card
 A Home Assistant frontend custom card for the [ha-mlb](https://github.com/simplysynced/ha-mlb) integration.  This was originaly made by @D34DC3N73R for the NFL and can be found here [ha-nfl-card](https://github.com/D34DC3N73R/ha-nfl-card)
 
 #### &nbsp;&nbsp;&nbsp;PREGAME
