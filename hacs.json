@@ -1,6 +1,6 @@
 {
-  "name": "NHL Card",
-  "filename": "ha-nhl-card.js",
+  "name": "MLB Card",
+  "filename": "ha-mlb-card.js",
   "render_readme": true,
   "homeassistant": "0.95.4",
   "country": ["US"]
