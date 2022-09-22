@@ -8,7 +8,7 @@ A Home Assistant frontend custom card for the [ha-mlb](https://github.com/simply
 
 
 #### &nbsp;&nbsp;&nbsp;POSTGAME
-![ha-mlb-card_postgame](https://user-images.githubusercontent.com/22181015/191660070-289f8c11-2fd1-4628-87e4-3f7144365bf5.jpg)
+![ha-mlb-card_postgame](https://user-images.githubusercontent.com/22181015/191660723-af141683-7d17-4eae-9658-83e3949271a4.jpg)
 
 ## HACS Installation
 - In the HACS UI, click the 3 dots in the upper right
